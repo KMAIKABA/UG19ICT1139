@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Assignment001</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+	<style type="text/css">
+		h1{
+			text-align: center;
+			font-family: cursive;
+			color: white;
+		}
+
+		h2{
+			font-family: cursive;
+		}
+
+		body{
+			background-image: url('Hausamusic.jpg');
+		}
+		.card {
+			border: 1px solid #ccc;
+			background-image: url('hh.jpg');
+			padding: 20px;
+			margin-bottom: 5px;
+		}
+		.address {
+			color: white;
+		}
+		.copyright {
+			color: white;
+		}
+
+	</style>
+</head>
+<body>
+	<h1>MAIKABAMP3WEB.COM</h1>
+	<div class="col-md-4">
+	<div class="card mb-4" style="width: 50rem;">
+		<div class="card-body">
+			<h2 class="card-title">Hausa Music</h2>
+			<button href="#" class="btn btn-primary" >click here to download</button>
+			     </div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-4">
+	<div class="card mb-4" style="width: 50rem;">
+		<div class="card-body">
+			<h2 class="card-title">Indian Music</h2>
+			<button href="#" class="btn btn-primary" >click here to download</button>
+			     </div>
+			</div>
+		</div>
+		<div class="col-md-4">
+	<div class="card mb-4" style="width: 50rem;">
+		<div class="card-body">
+			<h2 class="card-title">Urban Music</h2>
+			<button href="#" class="btn btn-primary" >click here to download</button>
+			     </div>
+			</div>
+		</div>
+		<div class="col-md-4">
+	<div class="card mb-4" style="width: 50rem;">
+		<div class="card-body">
+			<h2 class="card-title">Hip-Hop Music</h2>
+			<button href="#" class="btn btn-primary" >click here to download</button>
+			     </div>
+			</div>
+		</div>
+		<div class="col-md-4">
+	<div class="card mb-4" style="width: 50rem;">
+		<div class="card-body">
+			<h2 class="card-title">New Music</h2>
+			<button href="#" class="btn btn-primary" >click here to download</button>
+			     </div>
+			</div>
+		</div>
+		<div class="col-md-4">
+	<div class="card mb-4" style="width: 50rem;">
+		<div class="card-body">
+			<h2 class="card-title">Upload Your Music</h2>
+			<button href="#" class="btn btn-primary" >click here to upload</button>
+			     </div>
+			</div>
+		</div>
+<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 ">
+                  <div class="address">
+		<ul class="location">
+                      <li>
+                        <a href="#"><img src="icons/loc.png" alt="#" /></a>Yusuf Maitama Sule University,kano state
+                   
+                        <li>
+                          
+                            <a href="#"><img src="icons/call.png" alt="#" /></a>+2348090815686 </li>
+                          <li>
+                            <a href="#"><img src="icons/email.png" alt="#" /></a>kmaikaba@gmail.com </li>
+                          </ul>
+                    </div>
+                  </div>
+                   <div class="container">
+              <div class="copyright">
+               
+                  <p>Copyright 2021 All Right Reserved By <a href="https://YMKDESIGN.com/">KHALIFAMKDESIGN</a></p>
+                </div>
+              </div>
+	
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
